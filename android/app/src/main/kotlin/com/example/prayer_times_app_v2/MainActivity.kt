@@ -1,0 +1,5 @@
+package com.example.prayer_times_app_v2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
